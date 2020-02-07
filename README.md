@@ -1,2 +1,2 @@
 # Knowledge-DataBase-Soft
-Soft skills
+There is Wiki with Guids. Check it out
